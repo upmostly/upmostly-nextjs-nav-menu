@@ -1,10 +1,2 @@
-
-
-My Next.js Template
-- Next.js
-- TypeScript
-- ESLint
-- Prettier
-- TailwindCSS
-
-Honestly there are probably better boilerplates online with more features, but I thought it would be interesting to build this one up from scratch while I discover new things.
+# How to Enhance Your Next.js App with a Dynamic Navigation Bar
+Check out the corresponding article [here](https://upmostly.com/next-js/how-to-enhance-your-next-js-app-with-a-dynamic-navigation-bar).
